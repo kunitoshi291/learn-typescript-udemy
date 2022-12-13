@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kunitoshi291/learn-typescript-udemy/issues"
   },
-  "homepage": "https://github.com/kunitoshi291/learn-typescript-udemy#readme"
+  "homepage": "https://github.com/kunitoshi291/learn-typescript-udemy#readme",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
 }
